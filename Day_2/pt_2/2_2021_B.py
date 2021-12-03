@@ -39,7 +39,7 @@ This function will parse the commands:
 
     The function will return the new position of the submarine. The HORIZONTAL, DEPTH, and AIM will all start at 0. 
 
-    down x -> increasesyour AIM by x, resulting in a new AIM of x.
+    down x -> increases your AIM by x, resulting in a new AIM of x.
     up x -> decreases your AIM by x, resulting in a new AIM of x.
     forward x -> does two things:
         1. Adds x to the HORIZONTAL position a total of x.
